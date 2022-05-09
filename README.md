@@ -1,2 +1,2 @@
-# privacy
-privacy
+개인정보방침
+
